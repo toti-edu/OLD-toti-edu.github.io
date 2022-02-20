@@ -10,3 +10,4 @@ Contribuições são muito bem vindas. Por exemplo com:
 Usuários que criarem portfólio usando este repositório iremos referenciar aqui em baixo:
 
 - Ainda ninguém :(
+- Paciência, já vai ter :)
